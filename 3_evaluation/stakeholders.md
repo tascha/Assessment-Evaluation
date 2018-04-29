@@ -12,9 +12,11 @@ Your stakeholders should be involved in the evaluation process—defining values
 
 The answer to the question should be something one or more of your stakeholder groups can use to make a decision (such as continuing to fund a program or ending a partnership).
 
-**PARTICIPATORY EVALUATION**
+<div class="table-format sidebar"><span class="title"><h5>PARTICIPATORY EVALUATION</h5></span>
 
-Stakeholders should always be involved in an evaluation, providing context, advice, and feedback about the evaluation. **Participatory evaluation** takes stakeholder participation to the next level and actively involves stakeholders in the process of planning and carrying out the evaluation. To learn more about participatory evaluation, see Chapter 36, Section 2 of the Community Toolbox: [**Community-Based Participatory Research**](http://ctb.ku.edu/en/table-of-contents/evaluate/evaluation/intervention-research/main).
+Stakeholders should always be involved in an evaluation, providing context, advice, and feedback about the evaluation. **Participatory evaluation** takes stakeholder participation to the next level and actively involves stakeholders in the process of planning and carrying out the evaluation. To learn more about participatory evaluation, see Chapter 36, Section 2 of the Community Toolbox: <a href="http://ctb.ku.edu/en/table-of-contents/evaluate/evaluation/intervention-research/main">Community-Based Participatory Research</a>.
+
+***
 
 [^6]: Bonney, R., Ellenbogen, K., Goodyear, L., &amp; Hellenga, R. (Eds.). (2001). _Principal investigator’s guide: Managing evaluation in informal STEM education projects_. Washington, D.C.: Center for Advancement of Informal Science Education. Retrieved from
 

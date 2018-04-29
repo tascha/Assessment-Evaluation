@@ -6,21 +6,14 @@ You need to collect data on your measure (or measures) in order to answer your q
 2.  **What is the best method to obtain that information?** You have many choices for data collection—surveys, focus groups, interviews, and more.
 3.  **What is the best strategy for collecting that information via that method for this project?** From whom do you need to collect information? Where is the best place to reach them via the method(s) you’ve chosen? When should this happen? If there is a facilitator, whom should that be?
 
-**DATA COLLECTION EXAMPLES**
-
-_How many questions participants get right in a Jeopardy! game at the end of the program_
-
-_A staff member uses an observation form to record the number of times participants form collaborative groups_
-
-_A staff member writes field notes based on the interactions they observe_
+<div class="table-format sidebar"><span class="title"><h5>DATA COLLECTION EXAMPLES</h5></span>
+<p><i>How many questions participants get right in a Jeopardy! game at the end of the program</i></p>
+<p><i>A staff member uses an observation form to record the number of times participants form collaborative groups</i></p>
+<p><i>A staff member writes field notes based on the interactions they observe</i></p>
 
 ### Quantitative or qualitative {#quantitative-or-qualitative}
 
-To put it simply, quantitative data means numbers, and qualitative data means anything else—usually text or spoken words, but could also include things like images, sounds, or behaviors. Traditional library assessments tend to be quantitative in nature, like the number of items borrowed or the number of program participants. Collecting qualitative data by listening to or observing people can better capture individual experiences, thoughts, and attitudes. Your assessment may include both—a survey can have both quantitative and qualitative questions, and an observation protocol may involve both counting the number of times something happens and listening to someone’s comments. You can also quantitatively analyze qualitative data (see the section on
-
-analyzing data
-
-below).
+To put it simply, quantitative data means numbers, and qualitative data means anything else—usually text or spoken words, but could also include things like images, sounds, or behaviors. Traditional library assessments tend to be quantitative in nature, like the number of items borrowed or the number of program participants. Collecting qualitative data by listening to or observing people can better capture individual experiences, thoughts, and attitudes. Your assessment may include both—a survey can have both quantitative and qualitative questions, and an observation protocol may involve both counting the number of times something happens and listening to someone’s comments. You can also quantitatively analyze qualitative data (see the section on analyzing databelow).
 
 ### Data collection instruments {#data-collection-instruments}
 
@@ -44,22 +37,40 @@ Be sure to respect your participants’ privacy and autonomy as you are collecti
 
 The following table includes some—though certainly not all!—methods to collect data for your assessment. Each method has potential strengths and weaknesses and can be used to assess a wide variety of factors. Choose one (or more) that fits your question, your program, and your capacity.
 
-| **ANALYZING ARTIFACTS** |
-| --- |
-| You can gain a great deal of insight from the items learners create through your initiatives, whether they are musical performances, poetry, or 3-D models. Knowledge, skill, development, attitudes, behaviors—these can all be observed in learners’ creations. You can also ask students to write about the learning experience or their creative process, and analyze their responses. |
-| **Good for:** | **Potential drawbacks:** |
-| **COLLECTING PASSIVE FEEDBACK** |
-| Along with on-demand surveys and questionnaires, you can collect passive feedback through methods such as comment cards or “talkback boards” (see the sidebar following this section). |
-| **Good for:** | **Potential drawbacks:** |
-| **MAKING OBSERVATIONS** |
-| Using an observation guide or protocol, you can collect data by simply observing what is happening during a program or in a space and taking detailed “field notes.” This can be done unobtrusively in the background, or in a more engaged manner. If observing an individual directly (perhaps as they use a resource or do an activity) you can ask them to use a “think-aloud” strategy to help you understand why they do what they do. |
-| **Good for:** | **Potential drawbacks:** |
-| **TESTING KNOWLEDGE OR SKILLS** |
-| Formal tests of knowledge or skills feel too much like school for a connected learning library setting, but you can find small, creative ways to “test” a teen’s progress without making it feel like an exam, such as integrating a competitive quiz towards the end of a program or presenting challenges for participants to work on. |
-| **Good for:** | **Potential drawbacks:** |
+#### ANALYZING ARTIFACTS
+You can gain a great deal of insight from the items learners create through your initiatives, whether they are musical performances, poetry, or 3-D models. Knowledge, skill, development, attitudes, behaviors—these can all be observed in learners’ creations. You can also ask students to write about the learning experience or their creative process, and analyze their responses.
+* **Good for:** 
+    * Demonstrating achievement first-hand
+* **Potential drawbacks:**
+    * There can be a high level of subjectivity; be careful not to read too much into a creation (particularly a non-textual one) without input from the creator
+    * People may not like being watched
+
+
+#### COLLECTING PASSIVE FEEDBACK
+Along with on-demand surveys and questionnaires, you can collect passive feedback through methods such as comment cards.
+
+* **Good for:** 
+    * Collecting data unobtrusively
+* **Potential drawbacks:**
+    * Responses may come only from people with extreme or passionate opinions—not from people “in the middle” 
+
+#### MAKING OBSERVATIONS
+Using an observation guide or protocol, you can collect data by simply observing what is happening during a program or in a space and taking detailed “field notes.” This can be done unobtrusively in the background, or in a more engaged manner. If observing an individual directly (perhaps as they use a resource or do an activity) you can ask them to use a “think-aloud” strategy to help you understand why they do what they do.
+
+* **Good for:** 
+    * Uncovering unexpected outcomes
+    * Directly observing what is happening, not just relying on participants’ self-reports
+* **Potential drawbacks:** 
+    * People often behave differently when they know they are being observed
+    * Effective observations require a great deal of attention and focus
+    * People may not like being watched
+
+#### TESTING KNOWLEDGE OR SKILLS
+Formal tests of knowledge or skills feel too much like school for a connected learning library setting, but you can find small, creative ways to “test” a teen’s progress without making it feel like an exam, such as integrating a competitive quiz towards the end of a program or presenting challenges for participants to work on.
+* **Good for:** 
+    * Directly assessing what a teen knows or can do
+* **Potential drawbacks:** 
+    * They can feel too formal and school-like
+    * They can feel like too much pressure, especially for youth who are hanging out or messing around
 
 Other methods are described in different modules; surveys and focus groups are covered in the Community Mapping module, and the Capacity module discusses interviews and town halls.
-
-**TALKBACK BOARDS**
-
-[include description and case study]

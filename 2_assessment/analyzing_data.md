@@ -11,11 +11,14 @@ Given the variety of methods and goals for assessing a connected learning initia
 3.  **Apply codes to the data.** Be as broad or as specific as you need to ensure you end up with something useful and easy to understand. You may uncover new concepts and themes that require adjustments to your codebook—just make sure everyone agrees on and knows how to apply the modified codes. However, you cannot and should not try to code for everything. Unless you find something truly unexpected and impactful, stay focused on what will help you answer your questions.
 4.  **Drawing evidence from the coded data.** Even as you are coding data, you should be looking for themes and patterns. Once you’re done, take a step back and look at the big picture. What codes show up the most? Are there codes that are usually found together? Do some participant groups use certain codes more than other groups? How can you synthesize this data into evidence for the answer to your assessment question?
 
-**QUANTITATIVE ANALYSIS**
+<div class="table-format sidebar"><span class="title"><h5>QUANTITATIVE ANALYSIS</h5></span>
 
-[embed video: [https://youtu.be/2kVnsbGdanI](https://youtu.be/2kVnsbGdanI)]
-
+<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/2kVnsbGdanI">
+</iframe>
 In this 50-minute webinar, Wendi Ackerman from Upstate Health Service Library in [New york?] provides a detailed overview of quantitative analysis in libraries.
+</div>
+
+
 
 ### Quantitative analysis of qualitative data {#quantitative-analysis-of-qualitative-data}
 

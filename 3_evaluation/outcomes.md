@@ -1,11 +1,11 @@
 ## Outcomes {#outcomes}
 
-Outcomes are the differences your programs make for your library’s youth and for the community—things outside of your program and outside of connected learning that matter.<sup><sup id="174453654767466-footnote-ref-8"><a href="#174453654767466-footnote-8">[8]</a></sup></sup> If you are evaluating a program or other connected learning activity, you may have already determined the desired outcomes (see the Connected Learning Programming module for more).
+Outcomes are the differences your programs make for your library’s youth and for the community—things outside of your program and outside of connected learning that matter.[^8] If you are evaluating a program or other connected learning activity, you may have already determined the desired outcomes (see the Connected Learning Programming module for more).
 
-**OUTCOME EXAMPLES**
+<div class="table-format sidebar"><span class="title"><h5>OUTCOME EXAMPLESS</h5>
+<p><i>Participants will want to learn more about robotics</i></p>
+<p><i>Participants will develop collaboration skills</i></p></div>
 
-_Participants will want to learn more about robotics_
+***
 
-_Participants will develop collaboration skills_
-
-[^8]:
+[^8]: https://youtu.be/WXbkeFIEN8Y 28:40

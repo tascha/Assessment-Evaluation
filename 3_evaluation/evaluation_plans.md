@@ -16,7 +16,7 @@ If you will be sharing it with people who aren’t deeply familiar with the proj
 These sections explain in greater detail _what_ your program does, and _how_ and _why_ you expect it to achieve what you want.
 
 *   **Program goals.** Introduce the impacts and outcomes you hope your project will have.
-*   **Theory of change or logic model.** This section explains “how and why the program will work”<sup><sup id="174453654767466-footnote-ref-16"><a href="#174453654767466-footnote-16">[16]</a></sup></sup> in both narrative and graphic formats. (For more about developing theories of change, see the Connected Learning Programs module.)
+*   **Theory of change or logic model.** This section explains “how and why the program will work”[^16] in both narrative and graphic formats. (For more about developing theories of change, see the Connected Learning Programs module.)
 *   **Activities.** Include a list of all the activities that will take place as part of the project being evaluated. You may break them into categories—e.g., activities that staff will complete, activities the partner will complete, and activities the program participants will complete.
 
 ### About the evaluation {#about-the-evaluation}
@@ -34,6 +34,8 @@ This is the “nitty gritty” section that lays out the details of how you will
 
 *   **Data collection strategy.** Describe how your data will be collected, by whom, and from whom. If there was any uncertainty or dispute about data collection in your planning process, explain why you made the choices you did. Will you be conducting formative assessments throughout the course of the project? Include that information here.
 *   **Evaluation tools to use.** Describe any instruments or resources you will use for data collection. If you have created custom instruments (interview protocols, etc.), you can describe them here, and include them as appendices to the evaluation plan.
-*   **Reporting strategy.** How will you communicate the results to your stakeholders? Will you use different strategies for different audiences? What elements will be included for each group? For instance, youth participants probably don’t care whether your partnership project was within budget, but they might like to know how many of their peers participated. This information could be disseminated through a display in your library, a newsletter, or on the library’s social media accounts. .l
+*   **Reporting strategy.** How will you communicate the results to your stakeholders? Will you use different strategies for different audiences? What elements will be included for each group? For instance, youth participants probably don’t care whether your partnership project was within budget, but they might like to know how many of their peers participated. This information could be disseminated through a display in your library, a newsletter, or on the library’s social media accounts.
+
+***
 
 [^16]: Weiss, C. H. (1995). Nothing as practical as good theory: Exploring theory-based evaluation for comprehensive community initiatives for children and families. _New Approaches to Evaluating Community Initiatives: Concepts, Methods, and Contexts_, _1_, 65–92\.
