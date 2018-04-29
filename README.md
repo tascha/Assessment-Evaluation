@@ -8,5 +8,5 @@ After completing the Assessment and Evaluation module, you will be able to...
 
 **ACKNOWLEDGEMENTS**
 
-The ConnectedLibteam would like to thank Michelle Fellows, William Penuel, Katie Van Horne, and Josie Chang-Order for their input on this module.
+The ConnectedLib team would like to thank Michelle Fellows, William Penuel, Katie Van Horne, and Josie Chang-Order for their input on this module.
 

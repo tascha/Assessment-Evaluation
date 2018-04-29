@@ -4,7 +4,7 @@ This section discusses how to present and use the results of an evaluation.
 
 <div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES FOR THIS SECTION</h5></span>
 After completing Section 4: Now what?, you will be able to...
-<ul><li>Use your results</li><li>Communicate your results to important stakeholders</li></ul>
+<ul><li>Use your results</li><li>Communicate your results to important stakeholders</li></ul></div>
 
 >“Evaluation should not be conducted simply to_ prove _that a project worked, but also to_ improve _the way it works.” <br/> -- W. K. Kellogg Foundation[^17]
 

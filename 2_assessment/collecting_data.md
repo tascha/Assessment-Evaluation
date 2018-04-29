@@ -9,7 +9,7 @@ You need to collect data on your measure (or measures) in order to answer your q
 <div class="table-format sidebar"><span class="title"><h5>DATA COLLECTION EXAMPLES</h5></span>
 <p><i>How many questions participants get right in a Jeopardy! game at the end of the program</i></p>
 <p><i>A staff member uses an observation form to record the number of times participants form collaborative groups</i></p>
-<p><i>A staff member writes field notes based on the interactions they observe</i></p>
+<p><i>A staff member writes field notes based on the interactions they observe</i></p></div>
 
 ### Quantitative or qualitative {#quantitative-or-qualitative}
 

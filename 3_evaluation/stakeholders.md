@@ -14,7 +14,7 @@ The answer to the question should be something one or more of your stakeholder g
 
 <div class="table-format sidebar"><span class="title"><h5>PARTICIPATORY EVALUATION</h5></span>
 
-Stakeholders should always be involved in an evaluation, providing context, advice, and feedback about the evaluation. **Participatory evaluation** takes stakeholder participation to the next level and actively involves stakeholders in the process of planning and carrying out the evaluation. To learn more about participatory evaluation, see Chapter 36, Section 2 of the Community Toolbox: <a href="http://ctb.ku.edu/en/table-of-contents/evaluate/evaluation/intervention-research/main">Community-Based Participatory Research</a>.
+Stakeholders should always be involved in an evaluation, providing context, advice, and feedback about the evaluation. **Participatory evaluation** takes stakeholder participation to the next level and actively involves stakeholders in the process of planning and carrying out the evaluation. To learn more about participatory evaluation, see Chapter 36, Section 2 of the Community Toolbox: <a href="http://ctb.ku.edu/en/table-of-contents/evaluate/evaluation/intervention-research/main">Community-Based Participatory Research</a>.</div>
 
 ***
 
