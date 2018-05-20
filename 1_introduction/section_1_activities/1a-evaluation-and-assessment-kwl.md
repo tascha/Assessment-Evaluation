@@ -5,6 +5,10 @@ Complete this worksheet by first describing your experience (if any) with assess
 
 <i class="fa fa-file-word-o" style="font-size:24px;color:blue;"></i>&nbsp;[Word worksheet](docs/Assessment_KWL_Word.docx)
 
+[Word worksheet](docs/Assessment_KWL_Word.docx)
+
+<a href="docs/Assessment_KWL_Word.docx">Word Worksheet</a>
+
 
 
 | **What experience do you have with assessment and evaluation?** |
