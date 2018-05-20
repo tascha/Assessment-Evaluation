@@ -31,7 +31,7 @@ Before diving headlong into data collection, test the entire process. For a smal
 
 <div class="table-format sidebar"><span class="title"><h5>PRIVACY AND CONSENT</h5></span>
 
-Be sure to respect your participants’ privacy and autonomy as you are collecting data (and any time outside stakeholders are involved). This is particularly important when you are interacting with minors. <a href="https://projectoutcome.org/"><b>Project Outcome</b></a> is a good starting place for learning about <a href="https://projectoutcome.org/surveys-resources/informed-consent-guidelines"><b>issues of privacy and consent in library assessment</b></a> (requires free registration).
+Be sure to respect your participants’ privacy and autonomy as you are collecting data (and any time outside stakeholders are involved). This is particularly important when you are interacting with minors. <a href="https://projectoutcome.org/"><b>Project Outcome</b></a> is a good starting place for learning about <a href="https://projectoutcome.org/surveys-resources/informed-consent-guidelines"><b>issues of privacy and consent in library assessment</b></a> (requires free registration).</div>
 
 ### Ways to collect data {#ways-to-collect-data}
 
