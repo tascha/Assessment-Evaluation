@@ -2,6 +2,11 @@
 
 Complete this worksheet by first describing your experience (if any) with assessment and/or evaluation at your library or elsewhere. Then create a list of what you already know (the K in KWL) about assessment and evaluation. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module.
 
+
+<a href="/docs/Assessment_KWL_Word.docx"><i class="fa fa-file-word-o" style="font-size:24px;color:blue;"></i>Word  worksheet</a>
+
+
+
 | **What experience do you have with assessment and evaluation?** |
 | --- |
 | **Know** | **Want** | **Learn** |
