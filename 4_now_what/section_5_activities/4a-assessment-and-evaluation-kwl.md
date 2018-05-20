@@ -1,3 +1,3 @@
 ### 4A: Evaluation and assessment KWL {#5a-evaluation-and-assessment-kwl}
 
-Review the KWL you completed at the beginning of the module. Copy over what you completed for [Activity 1A](section_1_activities/1a-evaluation-and-assessment-kwl.html), then completed the L(earn) section. What did you learn in this module? Did you learn everything from your W column? If not, discuss this with the rest of the class.
+Review the KWL you completed at the beginning of the module. Copy over what you completed for [Activity 1A](section_1_activities/1a-evaluation-and-assessment-kwl.html), then completed the L(earn) section. What did you learn in this module? Did you learn everything from your W column? If not, discuss this with the rest of your group.
