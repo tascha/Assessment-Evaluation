@@ -12,7 +12,7 @@ All evaluations answer the same three fundamental questions, according to the [*
 
 | **DON’T** | **DO** |
 | --- | --- |
-| Ask more questions than you have time or resources to answer | Prioritize questions based on the value of their answers and your ability to answer them<sup><sup id="174453654767466-footnote-ref-11"><a href="#174453654767466-footnote-11">[11]</a></sup></sup> |
+| Ask more questions than you have time or resources to answer | Prioritize questions based on the value of their answers and your ability to answer them[^11] |
 | Come up with all the questions yourself | Talk to stakeholders for their input |
 | Try to answer all questions from every stakeholder | Use stakeholder input to _inform_ the evaluation design, not _determine_ it |
 | Ask questions that are too broad or aspirational | Ask questions that can be answered realistically |

@@ -29,9 +29,9 @@ Before diving headlong into data collection, test the entire process. For a smal
 *   Do you need to collect any baseline data so you can make before and after comparisons?
 *   Is there a way that data collection can happen seamlessly (for instance, the teens provide you with the data you need as part of the program), and not intrusive (such as taking time from the program to have the teens fill out a feedback form)?
 
-**PRIVACY AND CONSENT**
+<div class="table-format sidebar"><span class="title"><h5>PRIVACY AND CONSENT</h5></span>
 
-Be sure to respect your participants’ privacy and autonomy as you are collecting data (and any time outside stakeholders are involved). This is particularly important when you are interacting with minors. [**Project Outcome**](https://projectoutcome.org/) is a good starting place for learning about [**issues of privacy and consent in library assessment**](https://projectoutcome.org/surveys-resources/informed-consent-guidelines) (requires free registration).
+Be sure to respect your participants’ privacy and autonomy as you are collecting data (and any time outside stakeholders are involved). This is particularly important when you are interacting with minors. <a href="https://projectoutcome.org/"><b>Project Outcome</b></a> is a good starting place for learning about <a href="https://projectoutcome.org/surveys-resources/informed-consent-guidelines"><b>issues of privacy and consent in library assessment</b></a> (requires free registration).
 
 ### Ways to collect data {#ways-to-collect-data}
 

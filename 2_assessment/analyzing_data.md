@@ -15,7 +15,7 @@ Given the variety of methods and goals for assessing a connected learning initia
 
 <iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/2kVnsbGdanI">
 </iframe>
-In this 50-minute webinar, Wendi Ackerman from Upstate Health Service Library in [New york?] provides a detailed overview of quantitative analysis in libraries.
+If you want to learn more about quantitative analysis in libraries, watch this 50-minute webinar by Wendi Ackerman from <a href="http://library.upstate.edu/">SUNY's Upstate Health Sciences Library</a>.
 </div>
 
 
@@ -24,10 +24,11 @@ In this 50-minute webinar, Wendi Ackerman from Upstate Health Service Library in
 
 It is often useful to use quantitative (number-based) analysis on qualitative data. For instance, you can count the number of teens who mentioned interest in a STEM career during their interviews, or what percentage of participants completed a challenge. Be careful not to misinterpret the numbers. For instance, a very talkative teen who gave a 10-minute interview might mention a STEM career more often than a quieter person who only talked for 3 minutes, but that doesn’t necessarily mean the talkative person is more interested in STEM careers.
 
-**ADDITIONAL RESOURCES**
-
-*   The PEAR Institute’s [**Assessment Tools in Informal Science**](http://www.pearweb.org/atis/reviews/420)is a database of assessment instruments, complete with user reviews.
-*   The [**STEM Learning and Research Center**](http://stelar.edc.org/resources) also has a database of assessment instruments.
-*   The [**Activation Lab**](http://www.activationlab.org/tools/) provides instruments to assess science learning activation, as well as an [**observation protocol**](http://www.activationlab.org/wp-content/uploads/2014/07/ObservationProtocolFINAL.pdf) to measure engagement with learning.
-*   IDEO has created a [**Human-Centered Design Kit**](http://www.designkit.org/methods) with dozens of methods for gathering ideas and information, many of which can be used for creatively assessing connected learning programs.
-*   [**InformalScience.org**](http://www.informalscience.org) has a collection of [**evaluation materials**](http://www.informalscience.org/evaluation/browse-evaluation?search_api_views_fulltext=&sort_by=field_resource_date_value)from informal STEM learning projects, including evaluation reports and assessment instruments.
+<div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES</h5></span>
+<ul>
+<li>The PEAR Institute’s <a href="http://www.pearweb.org/atis/reviews/420"><b>Assessment Tools in Informal Science</b></a> is a database of assessment instruments, complete with user reviews.</li>
+<li>The <a href="http://stelar.edc.org/resources"><b>STEM Learning and Research Center</b></a> also has a database of assessment instruments.</li>
+<li>The <a href="http://www.activationlab.org/tools/"><b>Activation Lab</b></a> provides instruments to assess science learning activation, as well as an <a href="http://www.activationlab.org/wp-content/uploads/2014/07/ObservationProtocolFINAL.pdf"><b>observation protocol</b></a> to measure engagement with learning.</li>
+<li>IDEO has created a [**Human-Centered Design Kit**](http://www.designkit.org/methods) with dozens of methods for gathering ideas and information, many of which can be used for creatively assessing connected learning programs.</li>
+<li><a href="http://www.informalscience.org"><b>InformalScience.org</b></a> has a collection of <a href=" http://www.informalscience.org/evaluation/browse-evaluation?search_api_views_fulltext=&sort_by=field_resource_date_value"><b>evaluation materials from informal STEM learning projects</b></a>, including evaluation reports and assessment instruments.</li>
+</ul></div>
