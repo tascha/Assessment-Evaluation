@@ -4,7 +4,7 @@
 
 <div class="table-format objectives"><span class="title"><h5>LEARNING OBJECTIVES</h5></span>
 After completing the Assessment and Evaluation module, you will be able to...
-<ul><li>Describe evaluation and assessment (<a href="1_introduction.html">Section 1: Introduction</a>)</li><li>Conduct an assessment of a connected learning project (<a href="2_assessment/">Section 2: Assessment</a>)</li><li>Conduct an evaluation of a connected learning project (<a href="3_evaluation/">Section 3: Evaluation</a>)</li><li>Share and use the results of your evaluation (<a href="4_now_what/">Section 4: Now what?</a>)</li></ul></div>
+<ul><li>Describe evaluation and assessment (<a href="1_introduction/">Section 1: Introduction</a>)</li><li>Conduct an assessment of a connected learning project (<a href="2_assessment/">Section 2: Assessment</a>)</li><li>Conduct an evaluation of a connected learning project (<a href="3_evaluation/">Section 3: Evaluation</a>)</li><li>Share and use the results of your evaluation (<a href="4_now_what/">Section 4: Now what?</a>)</li></ul></div>
 
 **ACKNOWLEDGEMENTS**
 
